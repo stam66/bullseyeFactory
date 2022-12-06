@@ -1,7 +1,7 @@
-# bullseyeGenerator
+# bullseyeFactory
 LiveCode IDE plugin  to create a bullseye for left ventricular assessment for cardiology projects
 
-Generate Bullseye displays of any size for LV assessment in cardiology. 
+Create Bullseye displays of any size for LV assessment in cardiology. 
 To install as plugin, drop in your plugins folder and restart LiveCode. To use, choos a diameter/width for the bullseye display and click "create" - this copies the new bullseye into the clipoard to past in the mainstack.
 
 <img width="755" alt="Screenshot 2022-12-06 at 02 41 11" src="https://user-images.githubusercontent.com/5677273/205797579-83fe3157-f6ae-474e-b4ca-71ae8c351211.png">
