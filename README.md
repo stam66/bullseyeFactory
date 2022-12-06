@@ -21,4 +21,4 @@ Buttons on the left score all segments as either normal, hypokinetic, akinetic, 
 
 The Cog wheel icon shows/hides additional setting such as displaing calculations, show/hide wall names and choosing 16 or 17 segment model.
 
-MIT licence - the copyright notice must follow all distribution/derivative works.
+###### MIT licence - the copyright notice must follow all distribution/derivative works.
