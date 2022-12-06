@@ -1,6 +1,12 @@
 # bullseyeFactory
 LiveCode IDE plugin  to create a bullseye for left ventricular assessment for cardiology projects
 
+
+##### Changes in version 1.1: 
+- Changed behaviour of global scoring buttons to *only* score unscored segments - if all need to be scored then just reset and do so.
+- Removed the 'mark all as dyskinetic' button as it served no real purpose.
+
+## Description
 Create Bullseye displays of any size for LV assessment in cardiology. 
 To install as plugin, drop in your plugins folder and restart LiveCode. To use, choos a diameter/width for the bullseye display and click "create" - this copies the new bullseye into the clipoard to past in the mainstack.
 
